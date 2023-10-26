@@ -1,0 +1,1 @@
+(()=>{var t;(t=document.getElementById("emailBox")).addEventListener("click",(function(){navigator.clipboard.writeText(t.textContent)}))})();
